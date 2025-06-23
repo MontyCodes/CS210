@@ -1,0 +1,5 @@
+The project I selected to upload into my GitHub account for this course is the Investment calculator app as I align with it personally due to my interest in my personal finances, this app is beneficial to the user as it gives them foresight on their financial future and what they can do in order to accomplish whatever financial goals they may have. 
+In this project I did particularly well with both its basic input collection and its ability to output results to both the console and external file. From your feedback I’m sure I can find a solution to allow me to improve my input validation somehow though I can’t think of anything now. 
+At my current stage I struggle to write a lot of code, but I end up just referencing our zybooks readings and a github that I use which contains C++ shortcuts to reference on. 
+Through this project I feel like my proofreading / debugging skills improved tremendously. This skill is transferrable universally in my opinion. By implementing the use of Object-Oriented Programming standards, I was able to make this program not only maintainable but also readable and adaptable. 
+Thank you, Professor for a wonderful semester. 
